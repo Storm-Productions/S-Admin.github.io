@@ -1,5 +1,56 @@
-# Storm Admin V1
+# Admin Panel Documentation
 
-|SIDE|
-------
-|HOME|    
+Welcome to the Admin Panel documentation! This guide will walk you through the various features and functionalities available in the Admin Panel.
+
+## Overview
+
+The Admin Panel serves as the central hub for managing your application. From user management to system configurations, everything you need is conveniently organized and accessible.
+
+## Quick Links
+
+- [User Management](#user-management)
+- [Content Moderation](#content-moderation)
+- [System Settings](#system-settings)
+- [Analytics](#analytics)
+
+## User Management
+
+The User Management section allows you to manage users, roles, and permissions efficiently. With a range of actions available, you can keep your user base organized and secure.
+
+### Actions:
+- **Create New User:** Add new users to the system.
+- **Edit User Details:** Modify user profiles and information.
+- **Assign Roles and Permissions:** Control access levels by assigning roles and permissions.
+- **Deactivate or Delete Users:** Manage user accounts as needed.
+
+## Content Moderation
+
+Ensure the quality and appropriateness of content on your platform with the Content Moderation tools. Review, edit, or remove content to maintain community standards.
+
+### Actions:
+- **Review Pending Content:** Monitor and approve pending content submissions.
+- **Edit or Remove Content:** Modify or delete existing content as necessary.
+- **Apply Filters and Restrictions:** Set up filters and restrictions to prevent inappropriate content.
+
+## System Settings
+
+Customize and configure various aspects of your system to meet your specific requirements.
+
+### Actions:
+- **General Settings:** Configure basic system settings such as language, timezone, etc.
+- **Security Settings:** Manage security-related configurations like password policies, authentication methods, etc.
+- **Email Settings:** Set up email notifications and templates.
+- **Integration Settings:** Integrate with other services or platforms.
+
+## Analytics
+
+Gain insights into user behavior, system performance, and more with powerful analytics tools.
+
+### Actions:
+- **View Reports:** Access detailed reports on user activity, content performance, etc.
+- **Generate Custom Reports:** Create custom reports tailored to your specific needs.
+- **Export Data:** Export analytics data for further analysis or sharing.
+
+---
+
+Thank you for using our Admin Panel documentation. If you have any questions or need further assistance, feel free to reach out to our support team.
